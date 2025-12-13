@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/logicface/logicface.github.io/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-12-13_164701_217.png"
   name             : "logicface"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "intp"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : https://github.com/logicface/
+  employer         : "bucea"
+  # uri              : https://github.com/logicface/
   email            : "logicface4@gmail.com" 
 
   # Academic websites
@@ -48,12 +48,12 @@ author:
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  # bitbucket        : # Username - Update with your username on the site
+  # codepen          : # Username
+  # dribbble         : # Username
+  github           : "logicface"
+  # kaggle           : # Username  
+  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
