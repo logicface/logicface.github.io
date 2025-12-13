@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/logicface/logicface.github.io/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-12-13_164701_217.png"
+  avatar           : "https://github.com/logicface/logicface.github.io/blob/master/images/1.png"
   name             : "logicface"
   pronouns         : # example: "she/her"  
   bio              : "intp"
