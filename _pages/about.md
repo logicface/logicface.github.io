@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "一个杂物存储室"
+title: "ABCd"
 author_profile: true
 redirect_from: 
   - /about/
