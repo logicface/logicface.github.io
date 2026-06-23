@@ -78,11 +78,11 @@
       "description": "全国大学生数学建模竞赛省级二等奖项目，负责数据处理和分析代码实现。"
     },
     {
-      "name": "基于超宽视野眼底影像的出血点检测方法研究",
+      "name": "UWF-HemoDetect",
       "category": "thesis",
       "date": "2025",
       "url": "https://logicface.github.io/portfolio/uwf-fundus-hemorrhage-detection/",
-      "description": "本科毕业论文项目，围绕眼底影像出血点检测开展算法测试与优化。"
+      "description": "本科毕业论文项目，围绕超宽视野眼底影像出血点检测开展算法测试与优化。"
     },
     {
       "name": "codex-local-skills",
