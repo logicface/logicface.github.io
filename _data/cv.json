@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "logicface",
+    "name": "李浩",
     "email": "logicface4@gmail.com",
     "website": "https://logicface.github.io",
-    "summary": "关注计算机、医学与智能系统交叉方向，持续整理实用软件、研究辅助工具和个人项目。",
+    "summary": "智能医学工程方向，关注医学图像、医学信号、机器学习与实用软件系统。",
     "profiles": [
       {
         "network": "GitHub",
@@ -13,10 +13,44 @@
     ]
   },
   "work": [],
-  "education": [],
-  "skills": [],
+  "education": [
+    {
+      "institution": "安徽医科大学",
+      "area": "智能医学工程",
+      "studyType": "本科",
+      "startDate": "2021-09",
+      "endDate": "2025-06",
+      "courses": [
+        "数据库原理",
+        "C 语言程序设计",
+        "离散数学",
+        "医学信号处理",
+        "医学图像处理",
+        "机器学习",
+        "Python 与数据结构"
+      ]
+    },
+    {
+      "institution": "北京建筑大学",
+      "area": "机电与车辆工程",
+      "studyType": "研究生（已录取）",
+      "startDate": "",
+      "endDate": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "编程与数据分析",
+      "keywords": ["Python", "C", "MATLAB", "数据处理", "机器学习"]
+    },
+    {
+      "name": "医学工程",
+      "keywords": ["医学图像处理", "医学信号处理", "眼底影像", "文献调研"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": ["医学 AI", "智能医学工程", "实用软件系统", "数据建模"],
   "references": [],
   "publications": [],
   "presentations": [],
@@ -28,6 +62,27 @@
       "date": "2026",
       "url": "https://logicface.github.io/class-activity-rotation/",
       "description": "面向班级活动的通知、报名、缺勤、历史导入和轮换安排工具。"
+    },
+    {
+      "name": "基于 fMRI 的凝视追踪系统",
+      "category": "innovation project",
+      "date": "2023",
+      "url": "https://logicface.github.io/portfolio/fmri-gaze-tracking/",
+      "description": "2023 创新创业大赛省级立项项目，负责背景调研和项目文档撰写。"
+    },
+    {
+      "name": "蔬菜类商品的自动定价与补货决策",
+      "category": "mathematical modeling",
+      "date": "2023",
+      "url": "https://logicface.github.io/portfolio/vegetable-pricing-replenishment/",
+      "description": "全国大学生数学建模竞赛省级二等奖项目，负责数据处理和分析代码实现。"
+    },
+    {
+      "name": "基于超宽视野眼底影像的出血点检测方法研究",
+      "category": "thesis",
+      "date": "2025",
+      "url": "https://logicface.github.io/portfolio/uwf-fundus-hemorrhage-detection/",
+      "description": "本科毕业论文项目，围绕眼底影像出血点检测开展算法测试与优化。"
     },
     {
       "name": "codex-local-skills",
