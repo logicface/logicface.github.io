@@ -7,14 +7,8 @@ main:
   - title: "项目"
     url: /portfolio/
 
-  - title: "文章"
-    url: /year-archive/
-
-  - title: "论文"
-    url: /publications/
-
-  - title: "简历"
-    url: /cv/
-
   - title: "班级轮值系统"
     url: /class-activity-rotation/
+
+  - title: "GitHub"
+    url: https://github.com/logicface

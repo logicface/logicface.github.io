@@ -1,17 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "结构化简历"
 permalink: /cv-json/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume-json
 ---
 
-{% include base_path %}
+结构化简历正在整理。当前先保留项目展示页作为主要公开入口。
 
-{% include cv-template.html %}
-
-<div class="cv-download-links">
-  <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
-  <a href="{{ base_path }}" class="btn btn--inverse">View Markdown CV</a>
-</div>
+[查看项目](/portfolio/)

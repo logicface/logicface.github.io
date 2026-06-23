@@ -23,7 +23,7 @@ repository               : "logicface/logicface.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot-professional.png"
+  avatar           : "headshot-professional.png"
   name             : "logicface"
   pronouns         : # example: "she/her"  
   bio              : "计算机 x 医学 / AI 工具 / 实用系统"
